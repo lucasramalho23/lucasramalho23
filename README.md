@@ -16,3 +16,9 @@
 ![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 #### Apaixonado por dados 📊 e como eles interferem no sucesso dos negócios 💵 📈
+
+
+###  Projeto de previsão de renda
+
+
+[streamlit-Projeto_mod16_app-2024-07-26-21-07-59.webm](https://github.com/user-attachments/assets/07703e4c-eeb3-47c2-8b73-7658ec456154)
